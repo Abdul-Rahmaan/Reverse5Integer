@@ -1,0 +1,8 @@
+E:\leetProblems\ReverseFiveIntegers\Reverse5Integer\FiveReverseInteger\FiveReverseInteger\bin\Debug\FiveReverseInteger.exe.config
+E:\leetProblems\ReverseFiveIntegers\Reverse5Integer\FiveReverseInteger\FiveReverseInteger\bin\Debug\FiveReverseInteger.exe
+E:\leetProblems\ReverseFiveIntegers\Reverse5Integer\FiveReverseInteger\FiveReverseInteger\bin\Debug\FiveReverseInteger.pdb
+E:\leetProblems\ReverseFiveIntegers\Reverse5Integer\FiveReverseInteger\FiveReverseInteger\obj\Debug\FiveReverseInteger.csproj.AssemblyReference.cache
+E:\leetProblems\ReverseFiveIntegers\Reverse5Integer\FiveReverseInteger\FiveReverseInteger\obj\Debug\FiveReverseInteger.csproj.SuggestedBindingRedirects.cache
+E:\leetProblems\ReverseFiveIntegers\Reverse5Integer\FiveReverseInteger\FiveReverseInteger\obj\Debug\FiveReverseInteger.csproj.CoreCompileInputs.cache
+E:\leetProblems\ReverseFiveIntegers\Reverse5Integer\FiveReverseInteger\FiveReverseInteger\obj\Debug\FiveReverseInteger.exe
+E:\leetProblems\ReverseFiveIntegers\Reverse5Integer\FiveReverseInteger\FiveReverseInteger\obj\Debug\FiveReverseInteger.pdb
